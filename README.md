@@ -11,8 +11,8 @@ Hey there! 👋 I'm shaunfitzgarald, a full-stack web developer from sunny San D
 
 ## Skills
 
-- **Front-end**: React, JavaScript, HTML, CSS, TailwindCSS, Bootstrap
-- **Back-end**: Ruby on Rails, APIs, PostgreSQL
+- **Front-end**: React, JavaScript, HTML, CSS, TailwindCSS, Bootstrap, antd, shadcn
+- **Back-end**: Firebase,Ruby on Rails, APIs, PostgreSQL
 - **Tools**: GitHub, Copilot, AWS, pgAdmin
 - **Soft Skills**: Customer Service, Active Listening, Teamwork, Problem-Solving
 
