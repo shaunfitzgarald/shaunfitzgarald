@@ -1,27 +1,57 @@
 # Welcome to the wonderful and illustrious space that is shaunfitzgarald's GitHub! 🎉
 
-Hey there! 👋 I'm shaunfitzgarald, a full-stack web developer from sunny San Diego, California. 🌞 When I'm not coding, you can catch me outside. 🌴
+Hi there! 👋 I’m Shaun, a full-stack web developer based in San Diego, California. I enjoy creating web applications that are functional, user-friendly, and impactful. Outside of work, I’m always up for learning something new, exploring music, or finding inspiration in the world around me.
+
+---
 
 ## About Me
 
-- **🌐 Web Developer**: Specializing in React, JavaScript, HTML, Ruby on Rails, and more. I love building sleek, functional, and user-friendly web applications.
-- **📚 Lifelong Learner**: With a background in Human Biology and Business, I have a knack for solving problems and a drive to continuously learn and grow.
-- **🎸 Music Lover**: I can play over ten instruments and enjoy exploring different genres and styles.
-- **✈️ Travel Enthusiast**: I love to travel and explore new places, cultures, and experiences.
+- **Web Developer**: Experienced in both front-end and back-end development, I specialize in building modern, scalable web applications.  
+- **Lifelong Learner**: My background in Human Biology and Business shapes how I approach problem-solving and continuous growth in technology.  
+- **Music Enthusiast**: I’ve taught myself over ten instruments and love exploring different genres and sounds.  
+- **Traveler**: Exploring new places and cultures fuels my creativity and perspective.
+
+---
 
 ## Skills
 
-- **Front-end**: React, JavaScript, HTML, CSS, TailwindCSS, Bootstrap, antd, shadcn
-- **Back-end**: Firebase,Ruby on Rails, APIs, PostgreSQL
-- **Tools**: GitHub, Copilot, AWS, pgAdmin
-- **Soft Skills**: Customer Service, Active Listening, Teamwork, Problem-Solving
+### **Front-End Development**  
+- Frameworks: **React**  
+- Languages: **JavaScript**, **HTML**, **CSS**  
+- Libraries & Styling: **TailwindCSS**, **Bootstrap**, **Ant Design**, **ShadCN**  
+- Focus: Accessibility, performance, and clean user interfaces  
 
-## Let's Connect!
+### **Back-End Development**  
+- Frameworks: **Ruby on Rails**  
+- Databases: **PostgreSQL**, **Firebase**  
+- API Work: Building and integrating **RESTful APIs**, **Google APIs**, and custom back-end solutions  
 
-Feel free to reach out if you want to collaborate on a project, share a recipe, or just chat about coffee and code.
+### **Cloud & AI Tools**  
+- Platforms: **Firebase**, **AWS**, **Google Cloud**  
+- AI Integration: **Google Gemini**, **Vertex AI**  
+
+### **Tools & Platforms**  
+- Version Control: **Git**, **GitHub**  
+- Productivity Tools: **Copilot**, **pgAdmin**, **ChatGPT**, **Claude**, **Sonnet**  
+
+### **Soft Skills**  
+- **Collaboration**: Working effectively within diverse teams  
+- **Communication**: Translating technical concepts into clear, actionable steps  
+- **Problem-Solving**: Breaking down complex challenges into manageable solutions  
+
+---
+
+## Let’s Connect!  
+
+I’m always open to:  
+- Collaborating on interesting projects  
+- Sharing ideas or knowledge  
+- Chatting about music, tech, or travel  
 
 - **[LinkedIn](https://www.linkedin.com/in/shaunfitzgarald)**
 - **[X](https://x.com/shaunfitzgarald)**
+
+---
 
 Thanks for stopping by, and happy coding! 🚀
 <!--
