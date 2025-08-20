@@ -1,70 +1,52 @@
-# Welcome to the wonderful and illustrious space that is shaunfitzgarald's GitHub! 🎉
+# Hey, I’m Shaun 👋  
 
-Hi there! 👋 I’m Shaun, a full-stack web developer based in San Diego, California. I enjoy creating web applications that are functional, user-friendly, and impactful. Outside of work, I’m always up for learning something new, exploring music, or finding inspiration in the world around me.
-
----
-
-## About Me
-
-- **Web Developer**: Experienced in both front-end and back-end development, I specialize in building modern, scalable web applications.  
-- **Lifelong Learner**: My background in Human Biology and Business shapes how I approach problem-solving and continuous growth in technology.  
-- **Music Enthusiast**: I’ve taught myself over ten instruments and love exploring different genres and sounds.  
-- **Traveler**: Exploring new places and cultures fuels my creativity and perspective.
+I’m a **Computer Science student** and **freelance web developer** based in San Diego, CA. I love building modern, responsive web applications that integrate **AI tools and APIs** to create smarter, more engaging user experiences. My long-term goal is to contribute to an **AI company**, where I can combine my coding background with my passion for innovation and design.  
 
 ---
 
-## Skills
+## 🚀 About Me  
 
-### **Front-End Development**  
-- Frameworks: **React**  
-- Languages: **JavaScript**, **HTML**, **CSS**  
-- Libraries & Styling: **TailwindCSS**, **Bootstrap**, **Ant Design**, **ShadCN**  
-- Focus: Accessibility, performance, and clean user interfaces  
-
-### **Back-End Development**  
-- Frameworks: **Ruby on Rails**  
-- Databases: **PostgreSQL**, **Firebase**  
-- API Work: Building and integrating **RESTful APIs**, **Google APIs**, and custom back-end solutions  
-
-### **Cloud & AI Tools**  
-- Platforms: **Firebase**, **AWS**, **Google Cloud**  
-- AI Integration: **Google Gemini**, **Vertex AI**  
-
-### **Tools & Platforms**  
-- Version Control: **Git**, **GitHub**  
-- Productivity Tools: **Copilot**, **pgAdmin**, **ChatGPT**, **Claude**, **Sonnet**  
-
-### **Soft Skills**  
-- **Collaboration**: Working effectively within diverse teams  
-- **Communication**: Translating technical concepts into clear, actionable steps  
-- **Problem-Solving**: Breaking down complex challenges into manageable solutions  
+- 🎓 **Currently studying**: Computer Science (San Diego Mesa College, expected Jan 2025)  
+- 💻 **Freelance Developer**: Delivered React-based applications for multiple clients while in school  
+- 🤖 **AI Enthusiast**: Experienced integrating AI models into web apps using tools like ChatGPT, Claude, and Google Gemini  
+- 🌍 **Background**: UC San Diego grad in Human Biology & International Business with German minor  
+- ✈️ **Life outside tech**: Music, travel, and cross-cultural experiences (including a year living in Germany)  
 
 ---
 
-## Let’s Connect!  
+## 🛠️ Skills  
 
-I’m always open to:  
-- Collaborating on interesting projects  
-- Sharing ideas or knowledge  
-- Chatting about music, tech, or travel  
+### **Web Development**  
+- Frontend: React, JavaScript, HTML, CSS  
+- Styling: TailwindCSS, Bootstrap, Ant Design, ShadCN  
+- Backend: Firebase, PostgreSQL, REST APIs, Ruby on Rails  
+- Focus: Clean UI/UX, responsive design, and accessibility  
 
-- **[LinkedIn](https://www.linkedin.com/in/shaunfitzgarald)**
-- **[X](https://x.com/shaunfitzgarald)**
+### **AI & Cloud**  
+- Tools: ChatGPT, Claude, Google Gemini, Vertex AI  
+- Cloud Platforms: Firebase, AWS, Google Cloud  
+
+### **Professional Strengths**  
+- Translating vague ideas into functional apps  
+- Client communication & problem-solving  
+- Balancing multiple projects with strong time management  
 
 ---
 
-Thanks for stopping by, and happy coding! 🚀
-<!--
-**shaunfitzgarald/shaunfitzgarald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Currently Learning  
 
-Here are some ideas to get you started:
+- Advanced React patterns & TypeScript  
+- Scalable cloud architectures  
+- Cutting-edge AI integrations for web apps  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Let’s Connect  
+
+- **Portfolio**: [shaunfitzgarald.com](http://shaunfitzgarald.com)  
+- **LinkedIn**: [linkedin.com/in/shaunfitzgarald](https://www.linkedin.com/in/shaunfitzgarald)  
+- **X (Twitter)**: [x.com/shaunfitzgarald](https://x.com/shaunfitzgarald)  
+
+---
+
+💡 Always open to collaborating on cool web + AI projects, swapping ideas, or chatting tech!  
