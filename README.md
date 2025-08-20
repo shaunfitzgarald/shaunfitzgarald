@@ -9,7 +9,7 @@ I’m a **Computer Science student** and **freelance web developer** based in Sa
 - 🎓 **Currently studying**: Computer Science (San Diego Mesa College, expected Jan 2025)  
 - 💻 **Freelance Developer**: Delivered React-based applications for multiple clients while in school  
 - 🤖 **AI Enthusiast**: Experienced integrating AI models into web apps using tools like ChatGPT, Claude, and Google Gemini  
-- 🌍 **Background**: UC San Diego grad in Human Biology & International Business with German minor  
+- 🌍 **Background**: Human Biology & International Business with German minor at UC San Diego
 - ✈️ **Life outside tech**: Music, travel, and cross-cultural experiences (including a year living in Germany)  
 
 ---
